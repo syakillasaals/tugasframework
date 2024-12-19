@@ -1,4 +1,4 @@
-export default function CustomersPage() {
-    return <h1>Customers Page</h1>;
+export default function Page() {
+    return <div>Customers Dashboard</div>;
   }
   
