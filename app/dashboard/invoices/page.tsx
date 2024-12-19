@@ -1,6 +1,4 @@
-export default function page() {
-    return 
-        <p>This is the customers page.</p>;
-     
-  }
-  
+export default function Page() {
+    return <p>This is the invoices page.</p>;
+}
+
